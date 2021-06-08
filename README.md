@@ -1,1 +1,2 @@
 # cyclegan_horse2zebra
+tensorflow のCycleGANチュートリアルをそのまま実行してみました。
